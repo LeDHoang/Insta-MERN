@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+a{
+  color:black !important;
+}
+.brand-logo{
+  font-family: 'Grand Hotel', cursive;
+  letter-spacing: 0.5px;
+  font-weight:500
+}
+.mycard{
+  margin-top: 30px;
+}
+.auth-card{
+  margin:10px auto;
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+}
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid rgb(0,149,246) !important;
+  box-shadow: 0 1px 0 0 rgb(0,149,246) !important;
+}
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid rgb(0,149,246) !important;
+  box-shadow: 0 1px 0 0 rgb(0,149,246) !important;
+}
+.opp_link{
+  font-size: 15px;
+  text-align: center;
+}
+#opp_link_2{
+  color: rgb(0,149,246) !important;
+  font-weight: 700;
+}
+.gallery{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  max-width:750px;
+}
+.item{
+  width:30%;
+  height:30%
+}
+
+.home-card{
+  margin:26px auto;
+  max-width: 750px;
+  height:max-content;
+}
+
+
+
+#toast-container{
+  top:30px !important;
+  right:20px !important;
+  left:auto !important;
+}
+#comment_icon{
+  font-size: 20px;
+}
+i.icon-black{
+  color:#424242;
+}
+i.icon-red{
+  color:#c62828;
+}
+.material-icons{
+  cursor:pointer;  
+}
