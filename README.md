@@ -1,4 +1,4 @@
-#Instagram Full stack Clone
+# Instagram Full stack Clone
 
 This is a Full-stack web app based on Instagram that created using MERN (mongoDB, Express, React, Node)
 
